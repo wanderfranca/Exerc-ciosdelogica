@@ -1,7 +1,9 @@
-#GIT - Desenvolvi esse mini código, somente para testar o github
+﻿#GIT - Desenvolvi esse mini código, somente para testar o github
 
 teste = 'Teste do GIT'
 data = '30/05/2020'
+new01 = 'Novo teste"
 
 print(teste)
 print(data)
+print(new01)
