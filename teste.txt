@@ -3,7 +3,8 @@
 teste = 'Teste do GIT'
 data = '30/05/2020'
 new01 = 'Novo teste"
-
+new02 = 'Novo teste 02"
 print(teste)
 print(data)
 print(new01)
+print(new02)
