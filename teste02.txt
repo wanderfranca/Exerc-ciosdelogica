@@ -1,0 +1,13 @@
+#GIT - Desenvolvi esse mini código, somente para testar o github
+
+teste = 'Teste do GIT'
+data = '30-05-2020'
+new01 = 'Novo teste 10"
+new02 = 'Novo teste 20"
+new03 = 'Novo teste 30"
+
+print(teste)
+print(data)
+print(new01)
+print(new02)
+print(new03)
