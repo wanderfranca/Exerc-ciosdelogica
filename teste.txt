@@ -5,9 +5,11 @@ data = '30-05-2020'
 new01 = 'Novo teste 01"
 new02 = 'Novo teste 02"
 new03 = 'Novo teste 03"
+new04 = 'Novo teste 04"
 
 print(teste)
 print(data)
 print(new01)
 print(new02)
 print(new03)
+print(new04)
